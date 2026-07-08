@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Kunci API Anda (Sudah tertanam aman)
-API_KEY = "AQ.Ab8RN6Ipyee4PB046qNKplYWaRSQucTi75o01_yP5bEXUF3iZQ"
+API_KEY = "AQ.AQ.Ab8RN6LYQkjN7W1Bbg-RHPNHSjCFG-kjJ7HIyhgbStk22xtStQ"
 
 # Inisialisasi Gemini
 @st.cache_resource
