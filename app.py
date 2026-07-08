@@ -82,4 +82,3 @@ if st.button("🚨 AUDIT LOGIKA TRADING SAYA", use_container_width=True):
                 
             except Exception as e:
                 st.error(f"Terjadi kesalahan teknis: {e}")
-
