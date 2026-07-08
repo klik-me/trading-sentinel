@@ -5,7 +5,7 @@ from PIL import Image
 # --- KONFIGURASI HALAMAN UTAMA ---
 st.set_page_config(
     page_title="AI Trading Sentinel",
-    page_icon="🛡️",
+    page_icon="🛡️", 
     layout="centered"
 )
 
